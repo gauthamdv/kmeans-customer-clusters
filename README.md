@@ -124,7 +124,7 @@ kmeans_model = joblib.load("models/kmeans_customer_model.pkl")
 
 ## 📚 Dataset
 
-* **Source**: Udemy's *[Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)* 
+* **Source**: *[Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)* 
 * **Features**:
 
   * `CustomerID`
